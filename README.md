@@ -6,7 +6,7 @@
 * Counterfactuals
 
 # Packages
-* ![Dalex](Dalex.ipynb)
+* [Dalex](Dalex.ipynb)
 * Shap
 * Lime
 * ELI5
